@@ -1,0 +1,33 @@
+* {
+    font-family: monospace;
+    text-align: justify;
+    text-align-last: center;
+    margin: 10px;
+}
+
+.title {
+    text-decoration: underline;
+    text-decoration-style: wavy;
+}
+
+.recipe-intro {
+    font-size: 15px;
+    font-weight: bold;
+    font-style: italic;
+    color: palevioletred;
+    text-align: center;
+}
+
+img {
+    height: 500px;
+    width: auto;
+}
+
+.ingredient-list {
+    background-color: lightpink;
+    border-style: solid;
+    border-width: thin;
+    border-color: black;
+    border-radius: 2px;
+    padding: 10px;
+}
